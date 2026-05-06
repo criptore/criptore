@@ -12,6 +12,5 @@
 
 ---
 
-<p align="center">
-  <img src="github-metrics.svg" />
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
