@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Joshua 👋
 
-<!--
-**criptore/criptore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> AI & Data Engineering student @ ECE Paris · Building apps on my free time
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:waka-->
+
+> ⚙️ *Stats auto-updated daily via GitHub Actions*
+
+<!--END_SECTION:waka-->
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0e75b6&style=flat" alt="profile views"/>
+</p>
