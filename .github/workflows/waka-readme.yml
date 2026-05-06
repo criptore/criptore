@@ -2,7 +2,7 @@ name: GitHub Stats README
 
 on:
   schedule:
-    - cron: '0 18 * * *'   # s'exécute tous les jours à 18h UTC
+    - cron: '0 18 * * *'
   workflow_dispatch:       
 
 jobs:
@@ -15,20 +15,13 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
-        
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_COMMIT: "True"
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_SHORT_INFO: "True"
-
-          
           SHOW_OS: "False"
           SHOW_EDITORS: "False"
           SHOW_LANGUAGE: "False"
           SHOW_TIMEZONE: "False"
           SHOW_LOC_CHART: "False"
-
-          
-          SECTION_ORDER: "language_per_repo, commit, day_of_week"
           COMMIT_MESSAGE: "Mise à jour des statistiques GitHub"
